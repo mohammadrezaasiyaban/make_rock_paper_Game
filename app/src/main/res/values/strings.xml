@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BMItest</string>
+    <string name="bot">Bot</string>
+    <string name="you">You</string>
+    <string name="scissor">Scissor</string>
+    <string name="rock">Rock</string>
+    <string name="paper">Paper</string>
+    <string name="todo">TODO</string>
+    <string name="appname">rock scissors paper</string>
 </resources>
